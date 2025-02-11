@@ -3,7 +3,7 @@
 
 🌱 **I’m currently learning**: Python, Web Development
 
-💬 **About me**: I'm a software development student (FIAP), interested in Python, Web and Mobile development. On my Github I like to share my projects and things that i learn throughout my university journey. Feel free to contact me on LinkedIn.
+💬 **About me**: I'm a software development student (FIAP), interested in Web and Mobile development. On my Github I like to share my projects and things that i learn throughout my university journey. Feel free to contact me on LinkedIn.
 
 🎓 **Languages**: **English** - Advanced ; **Portuguese** - Native
 

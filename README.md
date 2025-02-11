@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Drumond Valente</h1>
 <h3 align="center">A software developer student from Brazil</h3>
 
-🌱 **I’m currently learning**: Python, Web Development
+🌱 **I’m currently learning**: Web Development, Mobile Development
 
 💬 **About me**: I'm a software development student (FIAP), interested in Web and Mobile development. On my Github I like to share my projects and things that i learn throughout my university journey. Feel free to contact me on LinkedIn.
 
